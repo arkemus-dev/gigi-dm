@@ -1,4 +1,4 @@
-# Ciao! Sono [Il Tuo Nome] 👋 🇮🇹 | 🇺🇸
+# Ciao! Sono Gigi 👋 🇮🇹 | 🇺🇸
 
 ["Software Engineer @ Inmatica S.p.A. | AI Engineering & Agentic Workflows"]
 
