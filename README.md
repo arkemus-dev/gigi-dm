@@ -78,7 +78,7 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
   
-<a href="mailto:gigi230294@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gigi230294@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
