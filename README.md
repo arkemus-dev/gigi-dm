@@ -1,51 +1,52 @@
-# Ciao! Sono [Gigi] 👋 🇮🇹 | En
+# Ciao! Sono [Il Tuo Nome] 👋 🇮🇹 | 🇺🇸
 
- Software Engineer @ Inmatica S.p.A. | Bridging the gap between Microservices and Machine Learning
+["Software Engineer @ Inmatica S.p.A. | AI Engineering & Agentic Workflows"]
 
 ---
 
 ## 🌍 Language / Lingua
-[**English Version**](#-about-me) | [**Versione Italiana**](#-chi-sono)
+[**EN Version**](#-about-me) | [**Versione IT**](#-chi-sono)
 
 ---
 
-## EN About Me
-I am a **Software Engineer** with over 4 years of experience, currently transitioning into the world of **Machine Learning & AI Engineering**. At **Inmatica S.p.A.**
+## 🇺🇸 About Me
+I am a **Software Engineer** with over 4 years of experience, currently bridging the gap between robust software architecture and **Advanced AI Engineering**. At **Inmatica S.p.A.**.
 
-My current focus is on **LLM Optimization** and **RAG (Retrieval-Augmented Generation)** systems. I enjoy benchmarking transformer models and building efficient vector-search pipelines.
+While I have a good foundation in **LLMs and RAG**, my interests span the broader AI landscape. I am particularly passionate about **AI Agents** and their application to solve complex, real-world problems through autonomous reasoning and tool-use.
 
-### 🚀 Key Expertise
-- **AI & NLP:** Fine-tuning BERT/DistilBERT, Tokenization optimization, RAG pipelines using ChromaDB.
-- **Backend:** Java/Spring Boot, Kafka (Event-driven architectures), RESTful Microservices.
-- **MLOps:** Experiment tracking with MLflow, MTEB Benchmark analysis.
-- **DevOps:** Docker, Kubernetes, AWS, TDD & CI/CD (Jenkins, SonarQube).
+### 🚀 Key Expertise & Interests
+- **AI Agents:** Experimenting with Agentic workflows to automate real-world decision-making.
+- **NLP & LLMs:** Fine-tuning (BERT/DistilBERT), RAG optimization, and embedding analysis.
+- **Beyond LLMs:** Deep Learning applications (Keras/TensorFlow) for IoT and smart-hardware.
+- **Backend Architecture:** Event-driven systems (Kafka), Spring Boot, and scalable Microservices.
+- **MLOps & DevOps:** Experiment tracking with MLflow, Docker, Kubernetes, and AWS.
 
 ---
 
 ## 🇮🇹 Chi Sono
-Sono un **Software Engineer** con oltre 4 anni di esperienza, attualmente in fase di specializzazione verso il mondo del **Machine Learning & AI Engineering**. Presso **Inmatica S.p.A.**
+Sono un **Software Engineer** con oltre 4 anni di esperienza, impegnato a coniugare l'architettura software solida con l'**AI Engineering avanzata**. Presso **Inmatica S.p.A.**.
 
-Attualmente mi sto dedicando all'ottimizzazione di **LLM** e allo sviluppo di sistemi **RAG (Retrieval-Augmented Generation)**. Mi appassiona il benchmarking dei modelli transformer e la creazione di pipeline di ricerca vettoriale efficienti.
+Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero ecosistema dell'Intelligenza Artificiale. In particolare, mi sto specializzando nello sviluppo di **Agenti AI**, esplorando come il ragionamento autonomo possa risolvere problemi complessi del mondo reale.
 
-### 🚀 Competenze Chiave
-- **AI & NLP:** Fine-tuning di BERT/DistilBERT, ottimizzazione della tokenizzazione, pipeline RAG con ChromaDB.
-- **Backend:** Java/Spring Boot, Kafka (Architetture event-driven), Microservizi RESTful.
-- **MLOps:** Monitoraggio esperimenti con MLflow, analisi dei benchmark MTEB.
-- **DevOps:** Docker, Kubernetes, AWS, TDD & CI/CD (Jenkins,SonarQube).
+### 🚀 Competenze & Interessi Chiave
+- **AI Agents:** Sperimentazione di workflow "Agentici" per l'automazione di processi decisionali reali.
+- **NLP & LLMs:** Fine-tuning (BERT/DistilBERT), ottimizzazione RAG e analisi semantica.
+- **Oltre gli LLM:** Applicazioni di Deep Learning (Keras/TensorFlow) per IoT e hardware intelligente.
+- **Backend Architecture:** Sistemi event-driven (Kafka), Spring Boot e Microservizi scalabili.
+- **MLOps & DevOps:** Monitoraggio esperimenti con MLflow, Docker, Kubernetes e AWS.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🧠 Artificial Intelligence & Data
+### 🧠 AI & Autonomous Agents
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![MLflow](https://img.shields.io/badge/mlflow-%23d5e0e0.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 💻 Software Engineering
+### 💻 Software Engineering & DevOps
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -54,21 +55,15 @@ Attualmente mi sto dedicando all'ottimizzazione di **LLM** e allo sviluppo di si
 
 ---
 
-## 🏗️ Featured Projects (Currently in Private Repo)
-*(Questi progetti saranno resi pubblici a breve / These projects will be public soon)*
+## 🏗️ Future Projects & Research
+*(Repo attualmente private / Repos currently private)*
 
-* **RAG Optimization Pipeline:** * *Tech:* ChromaDB, BGE Embeddings, MLflow.
-    * *Focus:* Evaluating Retrieval quality using MRR (Mean Reciprocal Rank) and Hit Rate metrics.
-* **Real-time Sensor Analysis (Inmatica S.p.A.):** * *Tech:* Spring Boot, Kafka, Keras.
-    * *Focus:* Monitoring water leakage using neural chips and behavioral mapping.
-* **Transformer Efficiency Lab:** * *Tech:* DistilBERT, PyTorch, Jupyter.
-    * *Focus:* Benchmarking tokenization strategies and waste reduction in Attention Masks.
+* **Autonomous Agent Playground:** Sperimentazione di agenti capaci di interagire con API esterne per task di automazione complessi.
+* **Hybrid RAG Architecture:** Ottimizzazione del recupero documenti tramite embedding multilingua e reranking.
+* **Neural Sensing (Inmatica S.p.A.):** Integrazione di modelli predittivi su flussi di dati Kafka per il rilevamento real-time di anomalie.
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/gigi-jr-del-monaco94/)])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[(gigi230294@gmail.com)])
-
----
-*“Curiosity and cross-team collaboration fuel my problem-solving approach.”*
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigi-jr-del-monaco94/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gigi230294@gmail.com)
