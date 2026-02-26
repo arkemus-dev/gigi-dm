@@ -39,19 +39,26 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI & Autonomous Agents
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
-![MLflow](https://img.shields.io/badge/mlflow-%23d5e0e0.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 🧠 AI, Agents & Data Science
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,huggingface,scikitlearn,pandas&theme=dark" />
+</a>
+</p>
 
-### 💻 Software Engineering & DevOps
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+### 💻 Software Engineering & Backend
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,mongodb&theme=dark" />
+</a>
+</p>
+
+### ⚙️ DevOps & Cloud
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,linux&theme=dark" />
+</a>
+</p>
 
 ---
 
@@ -65,5 +72,5 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigi-jr-del-monaco94/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigi-jr-del-monaco94/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gigi230294@gmail.com)
