@@ -72,5 +72,11 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gigi-jr-del-monaco94/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gigi230294@gmail.com)
+<p align="left">
+<a href="[(https://www.linkedin.com/in/gigi-jr-del-monaco94/)]">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:[(gigi230294@gmail.com)]">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
