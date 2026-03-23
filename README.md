@@ -67,7 +67,7 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
 
 * **[Sentinel-RAG Analysis](https://github.com/tuo-username/sentinel-rag):** Un framework RAG avanzato che utilizza **BGE-M3** per il recupero multilingua. Il progetto include una pipeline di valutazione sistematica basata su **Hit Rate** e **MRR** per ottimizzare la precisione del recupero semantico.
 * **[Prompt Engineering & Guardrails Lab](https://github.com/tuo-username/ai-safety-lab):** Implementazione di sistemi di istruzioni strutturate (System Prompts) con **Guardrails** integrati per prevenire allucinazioni e garantire risposte tecniche accurate basate esclusivamente sul contesto fornito.
-* * **[Telco Attrition & Data Leakage Lab]([https://github.com/arkemus-dev/Churn-Prediction]):** Analisi predittiva sul dataset IBM Telco utilizzando **CatBoost**. Il focus principale è sulla gestione di **Imbalanced Data** (Class Weights vs SMOTE) e sull'identificazione del **Data Leakage** in scenari reali. 
+* **[Telco Attrition & Data Leakage Lab](https://github.com/arkemus-dev/Churn-Prediction):** Analisi predittiva sul dataset IBM Telco utilizzando **CatBoost**. Il focus principale è sulla gestione di **Imbalanced Data** (Class Weights vs SMOTE) e sull'identificazione del **Data Leakage** in scenari reali. 
 
 ---
 
