@@ -75,7 +75,7 @@ Oltre a una solida base su **LLM e RAG**, nutro un forte interesse per l'intero 
 
 * **Autonomous Agent Playground:** Sperimentazione di agenti capaci di interagire con API esterne per task di automazione complessi.
 * **Hybrid RAG Architecture:** Ottimizzazione del recupero documenti tramite embedding multilingua e reranking.
-* **Neural Sensing (Inmatica S.p.A.):** Integrazione di modelli predittivi su flussi di dati Kafka per il rilevamento real-time di anomalie.
+* **Neural Sensing:** Integrazione di modelli predittivi su flussi di dati Kafka per il rilevamento real-time di anomalie.
 
 ---
 
